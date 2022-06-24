@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project 2", "Project 2.csproj", "{B3052B04-4409-4D6F-B35A-23DA022F5554}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeGen", "PrimeGen.csproj", "{B3052B04-4409-4D6F-B35A-23DA022F5554}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
